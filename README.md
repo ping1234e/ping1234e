@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @ping1234e
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+ping1234e/ping1234e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Hi,my name is zhangping,i am very good at java,javaweb. and i want to be a full-stack engineering technologist.
+In addition to my professional ability, I have mastered Android development, Python, WeChat applet development and so on.
+My hobbies are singing, cooking, learning new skills, and collecting card games. I hope I can grow up and live happily with you here.
